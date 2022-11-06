@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Refresher",
+    "author": "BNSX",
+    "description": "Refresher is extension for auto reload website.",
+    "icons": {
+        "128": "icon.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Refresher"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
