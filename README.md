@@ -52,7 +52,9 @@ edge://extensions/
 
 > Step 3 Find Developer mode and enable now.
 
-> Step 4 Click Load unpacked.
+> Step 4 Click "Load unpacked".
+
+> Step 5 Find this project and Click "Select Folder" for upload.
 
 _Finish_
 
