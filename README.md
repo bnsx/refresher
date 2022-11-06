@@ -2,10 +2,18 @@
 
 > Refresher is chrome extension for reload tab.
 
+## Preview
+
+![](/preview/1st.png)
+![](/preview/2nd.png)
+
+---
+
 ## Fetures
 
 -   Set timer.
 -   Start / Stop
+-   LightWeight
 
 ---
 
@@ -47,8 +55,6 @@ edge://extensions/
 > Step 4 Click Load unpacked.
 
 _Finish_
-
----
 
 # License
 
